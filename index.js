@@ -6,4 +6,8 @@
 
 let name = "Nelson"
 name = "NZ"
+name = "Di"
 console.log(name)
+
+const lastName = "O'Donnell"
+console.log(lastName)
