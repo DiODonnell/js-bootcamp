@@ -14,9 +14,9 @@ const lastName = "O'Donnell"
 
 console.log(lastName)
 
-const numOne = 100.99
-const numTwo = 56.97
+const numOne = 12
+const numTwo = 5
 
-const result = numTwo / numOne
+const result = numTwo % numOne
 console.log(numOne)
 console.log(result)
